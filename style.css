@@ -1,0 +1,35 @@
+
+table,tr{
+    border-collapse:collapse ;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 2cm;
+    width: 2cm;
+    text-align: center;}
+.green{
+    background-color: greenyellow;
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.cyan{
+    background-color: cyan;
+}
+.blue1{
+    background-color: lightseagreen;
+}
+.purple{
+    background-color: plum;
+}
+.inv{background-color: white;}
