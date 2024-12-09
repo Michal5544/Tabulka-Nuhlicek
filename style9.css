@@ -1,0 +1,75 @@
+
+table,tr{
+    border-collapse:collapse ;
+    margin: auto;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 2cm;
+    width: 2cm;
+    text-align: center;}
+.green{
+    background-color: greenyellow;
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.cyan{
+    background-color: cyan;
+}
+.blue1{
+    background-color: lightseagreen;
+}
+.purple{
+    background-color: plum;
+}
+.inv{
+    border-color:  white;
+    border: 0px;
+}
+.red1{
+    border: 0px;
+    background-color: red;
+    
+}
+.orange1{
+    border: 0px;
+    background-color: orange;
+}
+.orange{
+    background-color: orange;
+}
+.plum{
+    border: 0px;
+    background-color:plum ;
+}
+.blue2{
+    border: 0px;
+    background-color: blue;
+}
+.cyan2{
+    border: 0px;
+    background-color:cyan ;
+}
+.green2{
+    border: 0px;
+    background-color:greenyellow ;
+}
+.blue4{
+    border: 0px;
+    background-color: lightseagreen;
+}
+.yellow2{
+    border: 0px;
+    background-color:yellow ;
+}
